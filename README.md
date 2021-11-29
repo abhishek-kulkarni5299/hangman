@@ -1,1 +1,3 @@
-# weather-project
+# hangman project
+## languages used 
+### Basic pythod script
